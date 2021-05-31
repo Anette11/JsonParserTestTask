@@ -1,6 +1,6 @@
 # JsonParserTestTask
 
-My solution of test task from a company
+My solution of the test task from a company
 
 The task:
 
@@ -26,5 +26,12 @@ edge 1px wide, you should avoid displaying this border in the interface.
 The app must support Android 5.0 and above system. Orientations -
 portrait and landscape. Important: be sure to follow the guidelines and
 using standard controls (actionbars, spinners, buttons). The language is Kotlin.
+
+API x - Original hotel list
+
+API xx - Hotel, where N is the hotel ID. The "suites_availability" field contains the numbers of the available
+hotel rooms separated by colons.
+
+API xxx - Hotel picture, where M is the ID of the picture.
 
 <img src="1.png" width="216" heigth="384"> <img src="2.png" width="216" heigth="384">
