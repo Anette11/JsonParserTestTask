@@ -1,6 +1,6 @@
 # JsonParserTestTask
 
-My solution of test task from company
+My solution of test task from a company
 
 The task:
 
