@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="string_url_initial">xxxxx</string> //hidden
+    <string name="string_url_detailed">xxxxx</string> //hidden
+    <string name="string_url_image">xxxxx</string> //hidden
+    <string name="colon">:</string>
+    <string name="comma">,\u0020</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="stars">stars</string>
+    <string name="distance">distance</string>
+    <string name="suites_availability">suites_availability</string>
+    <string name="latitude">latitude</string>
+    <string name="lat">lat</string>
+    <string name="longitude">longitude</string>
+    <string name="lon">lon</string>
+    <string name="image">image</string>
+    <string name="empty" />
+    <string name="default_filter">Default filter</string>
+    <string name="distance_from_city_center">Distance from city center</string>
+    <string name="suites_available_amount">Suites available amount</string>
+    <string name="button_back">Button back</string>
+    <string name="initial">initial</string>
+    <string name="detailed">detailed</string>
+    <string name="jpg">.jpg</string>
+    <string name="m_jpg">M.jpg</string>
+    <string name="n">N</string>
+    <string name="not_found">NOT FOUND!</string>
+    <string name="hotel_picture">Hotel picture</string>
+    <string name="star">☆</string>
+    <string name="_id">· id:</string>
+    <string name="_distance_from_city_center">· distance from city center:</string>
+    <string name="_address">· address:</string>
+    <string name="_suites_available">· suites available:</string>
+    <string name="_latitude">· latitude:</string>
+    <string name="_longitude">· longitude:</string>
+    <string name="id_">id:</string>
+    <string name="details">Details</string>
+
+    <string-array name="filter_list">
+        <item>@string/default_filter</item>
+        <item>@string/distance_from_city_center</item>
+        <item>@string/suites_available_amount</item>
+    </string-array>
+</resources>
