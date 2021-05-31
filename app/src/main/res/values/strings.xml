@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Hotels</string>
-    <string name="string_url_initial">xxxxx</string> //hidden
-    <string name="string_url_detailed">xxxxx</string> //hidden
-    <string name="string_url_image">xxxxx</string> //hidden
+    <string name="string_url_initial">xxxxx.json</string> //hidden
+    <string name="string_url_detailed">xxxxN.json</string> //hidden
+    <string name="string_url_image">xxxxM.jpg</string> //hidden
     <string name="colon">:</string>
     <string name="comma">,\u0020</string>
     <string name="id">id</string>
